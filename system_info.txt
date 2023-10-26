@@ -1,2 +1,0 @@
-Hostname: Ade-MacBook-Air.local
-Platform: darwin
