@@ -9,3 +9,4 @@ module.exports = logMessage;
 
 
 
+const getCurrentTime = () => new Date().toLocaleTimeString();

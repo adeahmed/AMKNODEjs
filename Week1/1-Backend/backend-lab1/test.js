@@ -5,4 +5,3 @@ logMessage('Hello from your custom module!');
 logMessage('Hello from your custom module!');
 logMessage('Hello from your custom module!');
 logMessage('Hello from your custom module!');
-logMessage("hahah lol ")
